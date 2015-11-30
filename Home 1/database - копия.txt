@@ -1,0 +1,21 @@
+#GROUP
+ST75
+Branson Richard 19 89,40
+Shewchenko Taras 19 81,33
+Byron Lord 19 75,67
+Mokhamed Ali 23 73,07
+Cooper Alice 23 88,42
+#GROUP
+SM19
+Levis Lenoks 18 87,62
+Mayweser Floyd 20 93,62
+Paquiao Manny 23 76,79
+Klitchko Vitaliy 24 77,96
+Tyson Myke 24 74,53
+#GROUP
+K22
+Edison Tomas 18 78,84
+Ford Henry 22 82,34
+Hemsworth Chris 22 75,74
+Bieber Justin 22 74,80
+#LECTURERS
